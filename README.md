@@ -14,22 +14,22 @@ Se trabajaron con 3 fuentes de datos
 
 Como analista de datos, evalué el comportamiento de los clientes de ConnectaTel una empresa de telecomunicaciones en Latinoamérica. A continuación los pasos ejecutados:
 
-## Cargar y explorar
+## 1. Cargar y explorar
 ### Se cargaron los datos para visualizarlos correctamente y explorar la es estructuras de cada dataset.
-## Identificación de problemas
+## 2. Identificación de problemas
 ### Se analizó la detección de valores nulos, valores invalidos y sentinels que pueden afectar el analisis en general y la revisión de estandarización de fechas que se encuentren fuera de rango.
-## Limpieza básica de datos
+## 3. Limpieza básica de datos
 ### Se realizó la limpieza de datos corrigiendo sentinels
-## Estadísticas por uso de cada usuario encontrado
-## Visualización de distribuciones
+## 4. Estadísticas por uso de cada usuario encontrado
+## 5. Visualización de distribuciones
 ### En este paso muy importante fue entender visualmente el comportamiento de las variables clave como uso de los servicios que ofrece la empresa a los usuarios.
 ### Identificación de valores atípicos (outliers) en boxplots para entender si afectaban el análisis y poder dar una respectiva limpieza o manejo de información.
-## Segmentación de clientes.
+## 6. Segmentación de clientes.
 ### Clasificar cada usuario por categoría según su grupo de uso (Alto, Medio, Bajo).
 ### Clasificar cada usuario según su edad (Adulto, Adulto mayor, Joven).
-## Visualización de los segmentos.
+## 7. Visualización de los segmentos.
 ### Conocer la distribución de forma visual más clara de los segmentos anteriores como edad y uso por usurio con el servidor.
-## Insigts 
+## 8. Insigts 
 ### Hallazgos importantes encontrados en el análisis accionables para la empresa.
 
 # Guía de reproducción
