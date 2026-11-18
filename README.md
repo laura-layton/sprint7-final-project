@@ -1,16 +1,16 @@
-#Objetivo del proyecto
+# Objetivo del proyecto
 Analizar el comportamiento de los usuarios de ConnectaTel, empresa de telecomunicaciones para identificar segmentos valiosos y patrones de uso en servicios móviles.
 
-##Datasets utilizados
+## Datasets utilizados
 
-Se trabajaron con 3 fuentes de datosÑ
-- Plans.csv: Que contiene los planes actuales)precio, minutos incluidos, GB incluidos, costo por extra.
-- Users_latam.csv: Contiene la informacón de clientes: edad, ciudad, fecha de registro, plan contratado.
-- Usage.csv: Contiene el detalle de uso real: llamadas (duración) y mensajes (longitud).
+Se trabajaron con 3 fuentes de datos
+1. Plans.csv: Que contiene los planes actuales)precio, minutos incluidos, GB incluidos, costo por extra.
+2. Users_latam.csv: Contiene la informacón de clientes: edad, ciudad, fecha de registro, plan contratado.
+3. Usage.csv: Contiene el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
-El dataser final user_profile.csv, contiene el usuario _id, nombre y apellido, edad, ciudad, registro de fecha, el plan, cantidad de llamadas, cantidad de mensajes, cantidad de minutos por llamada, el grupo de uso y el grupo etario de cada usuario registrado en la base de datos de ConnectaTel.
+**El dataset final user_profile.csv, contiene el usuario _id, nombre y apellido, edad, ciudad, registro de fecha, el plan, cantidad de llamadas, cantidad de mensajes, cantidad de minutos por llamada, el grupo de uso y el grupo etario de cada usuario registrado en la base de datos de ConnectaTel.**
 
-#Etapas del análisis 
+# Etapas del análisis 
 
 Como analista de datos, evalué el comportamiento de los clientes de ConnectaTel una empresa de telecomunicaciones en Latinoamérica. A continuación los pasos ejecutados:
 
